@@ -1,6 +1,6 @@
 Reproducible Research: Peer Assessment 2
 ==========================================
-Created by Xiaodan Zhang on July 25, 2014
+Created by Swasti Srivastva on June 20, 2015
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
@@ -302,3 +302,4 @@ Based on the above histograms, we find that **flood** and **hurricane/typhoon** 
 
 ### Conclusion  
 From these data, we found that **excessive heat** and **tornado** are most harmful with respect to population health, while **flood**, **drought**, and **hurricane/typhoon** have the greatest economic consequences.
+
